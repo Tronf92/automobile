@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "automobile", "automobile\automobile.vcxproj", "{73037A79-91A3-49E7-9B5B-6A1E75058692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73037A79-91A3-49E7-9B5B-6A1E75058692}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73037A79-91A3-49E7-9B5B-6A1E75058692}.Debug|Win32.Build.0 = Debug|Win32
+		{73037A79-91A3-49E7-9B5B-6A1E75058692}.Release|Win32.ActiveCfg = Release|Win32
+		{73037A79-91A3-49E7-9B5B-6A1E75058692}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
